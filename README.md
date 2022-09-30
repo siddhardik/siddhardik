@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siddhartha Bhunia🏏</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="left">A passionate Full Stack developer from India</h3>
 <img align="center" alt="coding" width="400" src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif">
 
 
