@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Siddhartha Bhunia🏏</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif">
+<img align="center" alt="coding" width="400" src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddhardik" alt="siddhardik" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
