@@ -1,4 +1,4 @@
-<h1 align="center">নমস্কার 👋নমস্কার আমি সিদ্ধার্থ🏏</h1>
+<h1 align="center">নমস্কার👋 আমি সিদ্ধার্থ🏏</h1>
 <h3 align="left">A passionate Full Stack developer from India</h3>
 <img align="center" alt="coding" width="400" src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif">
 <h3 align="left">Languages and Tools:</h3>
